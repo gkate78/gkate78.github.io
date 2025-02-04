@@ -47,8 +47,8 @@ Change the theme in _config.yml (theme: minima or remote_theme: jekyll-theme-cay
 
 GitHub: @gkate78
 
-LinkedIn: Your LinkedIn Profile
+LinkedIn: https://www.linkedin.com/in/katherinebulac/
 
-Twitter: @YourTwitterHandle
+Facebook: https://www.facebook.com/gkate78
 
 💡 Feel free to fork, contribute, or reach out if you have suggestions! 🚀
