@@ -1,7 +1,7 @@
 title: "Katherine's Portfolio"
 author: "Katherine"
 description: "Data Engineer | AI Enthusiast | Community Builder"
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
 show_excerpts: true
 plugins:
   - jekyll-feed
