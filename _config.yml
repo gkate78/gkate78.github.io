@@ -1,0 +1,13 @@
+title: "Katherine's Portfolio"
+author: "Katherine"
+description: "Data Engineer | AI Enthusiast | Community Builder"
+theme: minima
+show_excerpts: true
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - index.md
+  - blog.md
+  - projects.md
